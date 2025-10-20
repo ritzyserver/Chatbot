@@ -1,0 +1,9 @@
+
+.env
+.venv
+.vscode
+f_key_spammer.py
+.DS_Store
+chroma_db/
+documents/User_Manual_for_Vendors_on_Post_Contract_Activities_(Version-2.0).pdf
+documents/User Manual for Contractors for E-Auction for Earning-Leasing Contracts Version 1.0.pdf
